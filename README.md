@@ -5,3 +5,10 @@
   - Math
   - Printf
   - Scanner
+  - Arrays
+  - String
+    - String
+    - StringBuffer
+    - StringBuilder
+    - StringTokenizer
+
